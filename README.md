@@ -9,13 +9,12 @@
 <div align="center">
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
-║        ▓▓▓▓▓▓▓▓▓▓▓▓  ██  C L A S S I F I E D  ██  ▓▓▓▓▓▓▓▓▓▓▓▓   ║
+║        ▓▓▓▓▓▓▓▓▓▓▓▓  ██  C L A S S I F I E D  ██  ▓▓▓▓▓▓▓▓▓▓▓▓       ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  CALLSIGN  ░  WILL4116                                               ║
-║  ROLE      ░  Blue Team  //  DFIR  //  Hardware Hacking              ║
+║  ROLE      ░  OSINT  //  SIEM //  Hardware Hacking                   ║
 ║  CLEARANCE ░  TOP SECRET  //  SCI  //  CYBER OPS                     ║
 ║  OPS       ░  Threat Hunting · Forensics · Cyberwarfare · OSINT      ║
-║  STATUS    ░  [ACTIVE] ████████████████████ 100%                     ║
 ║  MISSION   ░  Hunt. Analyze. Dismantle. Defend.                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
